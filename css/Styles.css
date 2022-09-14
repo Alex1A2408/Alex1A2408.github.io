@@ -1,0 +1,60 @@
+body{
+	background-color:#0F296E ;
+}
+.navbar{
+	background-color: #990000;
+}
+
+
+#carrusel{
+	color: rgb(0, 26, 255);
+}
+
+#target{
+	margin: 10px; height: 500px ;
+}
+
+
+#targetas{
+    width: 1340px;
+	margin: 5px;
+	
+}
+
+
+#botont{
+	width: 100px; height: 30px;
+
+}
+
+#imgtarget{
+	margin: 5px;
+	width: 414px; height: 260px;
+}
+
+
+
+#carreras{
+	color: aliceblue;
+	
+}
+
+
+
+#cont{ 
+	margin: 10px;
+}
+
+
+#conti{
+	margin: 5px;
+	margin-top: 1px;
+	border: #990000;
+}
+
+
+#cuadros{
+	margin: 10px;
+	
+}
+
